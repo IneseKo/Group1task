@@ -4,9 +4,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-       tatjana();
-       nameLiga();
+        nameDace();
+        tatjana();
+        nameLiga();
     }
+    public static void nameDace (){
+            System.out.println("Hello Dace");
+        }
 
     public static void nameLiga() {
         System.out.println("Hello Liga!");
@@ -14,4 +18,4 @@ public class Main {
     public static void tatjana() {
         System.out.println("Tatjana");
     }
-}
+
