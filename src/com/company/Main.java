@@ -3,14 +3,22 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        nameInese();
+        nameDace();
+        tatjana();
+        nameLiga();
         daceVersTwo();
+    }
+
+    public static void nameInese() {
+        System.out.println("Hello Inese!");
+
+        
     }
     public static void daceVersTwo() {
         System.out.println("Hello Dace 2!");
 
-        nameDace();
-        tatjana();
-        nameLiga();
+        
     }
     public static void nameDace (){
             System.out.println("Hello Dace");
