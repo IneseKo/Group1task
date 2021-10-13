@@ -19,9 +19,6 @@ public class Main {
         System.out.println("Hello Dace 2!");
     }
 
-
-    }
-
     public static void nameDace() {
         System.out.println("Hello Dace");
     }
