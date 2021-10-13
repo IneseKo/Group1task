@@ -8,6 +8,7 @@ public class Main {
         tatjana();
         nameLiga();
         daceVersTwo();
+        ladies();
     }
 
     public static void nameInese() {
@@ -16,6 +17,7 @@ public class Main {
 
     public static void daceVersTwo() {
         System.out.println("Hello Dace 2!");
+    }
 
 
     }
@@ -30,6 +32,10 @@ public class Main {
 
     public static void tatjana() {
         System.out.println("Tatjana");
+    }
+
+    public static void ladies() {
+        System.out.println("Good evening, Ladies");
     }
 }
 
